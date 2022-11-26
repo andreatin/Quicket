@@ -1,0 +1,15 @@
+Austin           Texas
+Atlanta          Georgia
+Cincinnati       Ohio
+Colorado_Springs Colorado
+Chicago          Illinois
+Honolulu         Hawaii
+Jacksonville     Florida
+Orlando          Florida
+Philadelphia     Pennsylvania
+Phoenix          Arizona
+Portland         Oregon
+San_Francisco    California
+San_Diego        California
+Santa_Fe         New_Mexico
+New_York_City    New_York

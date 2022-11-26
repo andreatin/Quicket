@@ -1,0 +1,15 @@
+Boston           Massachusetts
+Boise            Idaho
+Chicago          Illinois
+Denver           Colorado
+Houston          Texas
+Los_Angeles      California
+Milwaukee        Wisconsin
+Pittsburgh       Pennsylvania
+Portland         Oregon
+St.Louis         Missouri
+Savannah         Georgia
+Syracuse         New_York
+Seattle          Washington
+Sedona           Arizona
+Nashville	       Tennessee

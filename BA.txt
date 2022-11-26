@@ -1,0 +1,15 @@
+Barcelona        Spain
+Cancun           Mexico
+Dubai            UAE
+Havana           Cuba
+London           England
+Lisbon           Portugal
+Madrid           Spain
+Paris            France
+Rome             Italy
+Seoul            South_Korea
+Sydney           Australia
+Toronto          Canada
+Tokyo            Japan
+Nairobi          Kenya
+Istanbul	       Turkey
